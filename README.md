@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,9 +9,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Caveat&family=Cookie&display=swap" rel="stylesheet">
 </head>
   <body>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Cookie&display=swap');
-    </style>
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
