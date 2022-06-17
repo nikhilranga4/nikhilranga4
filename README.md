@@ -8,8 +8,8 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Caveat&family=Cookie&display=swap" rel="stylesheet">
 </head>
-  <body>
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
+  <body style="background-image:url(https://i.postimg.cc/SxLzwVZK/wp3082309-github-wallpapers.jpg);">
+<h1 align="center" style="background-color:red;">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiltony26&label=Profile%20views&color=0e75b6&style=flat" alt="nikhiltony26" /> </p>
@@ -49,23 +49,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiltony26&" alt="nikhiltony26" /></p>
   </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!---
-nikhiltony26/nikhiltony26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
