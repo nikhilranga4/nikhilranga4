@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Nikhil
-- 👀 I’m interested in working on new things
-- 🌱 I’m currently learning Web Development,Java programming,python programming,IOT,NFT's,Blockchain.
-- 💞️ I’m looking to collaborate on Team projects
-- 📫 Reach me nikhilranga43@gmail.com
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -32,7 +26,7 @@
 
 - 🌱 I’m currently learning **Web development,Programming languages,Cybersecurity,NFTs,IOT**<br>
 
-- 📫 How to reach me **@nikhilranga43@gmail.com**<br>
+- 📫 How to reach me nikhilranga43@gmail.com<br>
 
 ### Blogs posts<br>
 <!-- BLOG-POST-LIST:START -->
