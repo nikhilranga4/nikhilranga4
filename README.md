@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikhiltony26
+- 👋 Hi, I’m @nikhil
 - 👀 I’m interested in working on new things
 - 🌱 I’m currently learning Web Development,Java programming,python programming,IOT,NFT's,Blockchain.
 - 💞️ I’m looking to collaborate on Team projects
