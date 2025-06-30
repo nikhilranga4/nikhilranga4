@@ -10,7 +10,7 @@
 </head>
   <body style="background-image:url(https://i.postimg.cc/SxLzwVZK/wp3082309-github-wallpapers.jpg);">
 <h1 align="center" style="background-color:red;">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiltony26&label=Profile%20views&color=0e75b6&style=flat" alt="nikhiltony26" /> </p>
 
