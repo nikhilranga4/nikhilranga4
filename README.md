@@ -1,6 +1,4 @@
-<!-- GitHub Profile README.md -->
 
-<!-- Background is only visible in GitHub preview or in a browser -->
 
 <h1 align="center" style="color:red; background-color:rgba(255,0,0,0.1); padding:0.5em; border-radius:8px;">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
